@@ -1,0 +1,9 @@
+.md
+tailwind.config.js
+package.json
+package-lock.json
+.sqlite3
+/node_modules
+/.venv
+/__pycache__
+.env
